@@ -1,6 +1,6 @@
 # jet-physics-notes
 
-##Basics
+## Basics
 
 *  Towards Jetography, Gavin P. Salam (Paris, LPTHE). [[inspire]](http://inspirehep.net/record/822643)
 *  Towards an Understanding of the Correlations in Jet Substructure
@@ -9,12 +9,16 @@ D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. B
 A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne) , J. Backus Mayes (SLAC) , E. Bergeaas Kuutmann (DESY) , J. Berger (Cornell U., Phys. Dept.) , D. Bjergaard (Duke U.) , L. Bryngemark (Lund U.) , A. Buckley (Edinburgh U.) , J. Butterworth (University Coll. London) et al. [[inspire]](http://inspirehep.net/record/1264118)
 
 
-##Applications
+## Applications
+
+### Jet Substructure
+
+### Jet Superstructure
 
 
-##Recent Progress
+## Recent Progress
 
-###Neural Networks for Jet Physics
+### Neural Networks for Jet Physics
 
 The basic idea here is treating jet as image, thus making it possible to employ image techniques in DL.
 
@@ -34,3 +38,7 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 [[inspire]](http://inspirehep.net/record/1307242)
 
 ![](http://latex.codecogs.com/git.latex?d_{ij}=min(p_{Ti}, p_{Tj}))
+
+## Tools
+
+* [FastJet](http://fastjet.fr/about.html)
