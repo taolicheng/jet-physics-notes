@@ -21,7 +21,7 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 ### Neural Networks for Jet Physics
 
-The basic idea here is treating jet as image, thus making it possible to employ image techniques in DL.
+>The basic idea here is treating jet as image, thus making it possible to employ image techniques in DL.
 
 *  QCD-Aware Recursive Neural Networks for Jet Physics, 
 Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://inspirehep.net/record/1511884)
