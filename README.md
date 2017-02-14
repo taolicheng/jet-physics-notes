@@ -1,4 +1,5 @@
-# jet-physics-notes
+# Jet Physics Notes
+> Knowlege base for Jet Physics at the LHC
 
 ## Basics
 
