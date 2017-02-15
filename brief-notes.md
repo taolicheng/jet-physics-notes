@@ -1,7 +1,8 @@
 >Brief notes for the very basics
 
+## Intro
 
-## Jet Clustering Algorithms
+### Jet Clustering Algorithms
 * Sequential Algorithms
   * Jet Clustering 
 
@@ -18,7 +19,7 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
   * deterministic annealing (DA)
   * optimal jet finder (OJF)
   
-## Jet Grooming Algorithms
+### Jet Grooming Algorithms
 * Pruning: re-cluster the constituents using C/A algo.. Discard soft branches if
   
   ![](http://latex.codecogs.com/gif.latex?\\frac{min(p_{Ti}, p_{Tj})}{p_{Tij}} < z_{cut} ~\\textrm{and}~
@@ -35,7 +36,7 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
   ![](http://latex.codecogs.com/gif.latex?\\frac{min(p_{T1}, p_{T2})}{p_{T1}+p_{T2}} < z_{cut}
 \\left( \\frac{\\Delta R_{12}}{R} \\right)^\\beta)
 
-## Jet Observables
+### Jet Observables
 * N-subjettiness:  ![](http://latex.codecogs.com/gif.latex?\\tau_N^\\beta) quantifies how well the radiation in the jet is aligned along N directions.
    ![](http://latex.codecogs.com/gif.latex?
    \\tau_N^\\beta = \\frac{1}{d_0} \\sum_i p_{Ti} min(\\Delta R_{1i}^\\beta, ..., \\Delta R_{Ni}^\\beta)
@@ -43,4 +44,18 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
    d_0 = \\sum_i p_{Ti} R^\\beta
    )
 
-* ratio ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1} \\def \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+* ratio ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+
+## Applications (Subtopics)
+### Quark-Gluon Discrimination
+
+### Jet Substructure / Boosted non-QCD Jet Tagging
+#### Boosted W-Tagging
+
+#### Top-Tagging
+
+#### Higgs-Tagging
+
+### Jet Superstructure / Colorflow Analysis 
+
+## Open Questions / Unsolved Problems
