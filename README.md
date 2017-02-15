@@ -62,7 +62,7 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
 ![](http://latex.codecogs.com/gif.latex?P_{ij} \\propto e^{- \\alpha (d_{ij} - d_{min}) / d_{min}} )
 
 
-
+[case study](./case-study.md)
 
 
 
