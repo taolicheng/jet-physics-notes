@@ -1,6 +1,12 @@
 # Jet Physics Notes
 > Knowledge base for Jet Physics at the LHC
 
+* [Basics](#basics)
+* [Applications](#applications)
+* [Recent Progress](#recent-progress)
+* [Tools](#tools)
+* [Brief Notes](#brief-notes)
+
 ## Basics
 
 *  **Towards Jetography**, Gavin P. Salam (Paris, LPTHE). [[inspire]](http://inspirehep.net/record/822643)
@@ -53,7 +59,7 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
 
 * Qjets
 
-![](http://latex.codecogs.com/gif.latex?P_{ij} \propto e^{- \\alpha (d_{ij} - d_{min}) / d_{min}} )
+![](http://latex.codecogs.com/gif.latex?P_{ij} \\propto e^{- \\alpha (d_{ij} - d_{min}) / d_{min}} )
 
 
 
