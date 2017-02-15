@@ -45,14 +45,22 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
 \\left( \\frac{\\Delta R_{12}}{R} \\right)^\\beta)
 
 ### Jet Observables
-* N-subjettiness:  ![](http://latex.codecogs.com/gif.latex?\\tau_N^\\beta) quantifies how well the radiation in the jet is aligned along N directions.
+* jet mass: 
+* jet substructure observables
+  * Angular Correlation Functions: 
+  * N-subjettiness:  ![](http://latex.codecogs.com/gif.latex?\\tau_N^\\beta) quantifies how well the radiation in the jet is aligned along N directions.
    ![](http://latex.codecogs.com/gif.latex?
    \\tau_N^\\beta = \\frac{1}{d_0} \\sum_i p_{Ti} min(\\Delta R_{1i}^\\beta, ..., \\Delta R_{Ni}^\\beta)
    ~\\textrm{with}~ 
    d_0 = \\sum_i p_{Ti} R^\\beta
    )
 
-* ratio ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+  * ratio ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+* color flow
+* jet charge
+![](http://latex.codecogs.com/gif.latex?
+Q_j = \\frac{1}{p_{Tj}^\\kappa} \\sum_{i\\in T} q_i \\times (p_T^i)^\\kappa
+)
 
 ## Applications (Subtopics)
 ### Quark-Gluon Discrimination
