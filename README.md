@@ -48,3 +48,8 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 
 * [FastJet](http://fastjet.fr/about.html)
 
+## Conferences
+
+* [Boost 2016](https://indico.cern.ch/event/439039/timetable/#20160718)
+* [Boost 2015](https://indico.cern.ch/event/382815/timetable/#20150810)
+
