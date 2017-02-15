@@ -43,3 +43,4 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
    d_0 = \\sum_i p_{Ti} R^\\beta
    )
 
+* ratio ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1} \\def \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
