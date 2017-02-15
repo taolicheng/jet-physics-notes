@@ -5,6 +5,7 @@
 * [Applications](#applications)
 * [Recent Progress](#recent-progress)
 * [Tools](#tools)
+* [Conferences](#conferences)
 * [Brief Notes](./brief-notes.md)
 
 ## Basics
@@ -50,6 +51,7 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 
 ## Conferences
 
+* [Boost 2017](https://indico.cern.ch/event/579660/overview)
 * [Boost 2016](https://indico.cern.ch/event/439039/timetable/#20160718)
 * [Boost 2015](https://indico.cern.ch/event/382815/timetable/#20150810)
 
