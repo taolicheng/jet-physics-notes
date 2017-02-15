@@ -55,9 +55,12 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
    d_0 = \\sum_i p_{Ti} R^\\beta
    )
 
-  * ratio ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+  * ratio 
+  
+  ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
 * color flow
 * jet charge
+
 ![](http://latex.codecogs.com/gif.latex?
 Q_j = \\frac{1}{p_{Tj}^\\kappa} \\sum_{i\\in T} q_i \\times (p_T^i)^\\kappa
 )
