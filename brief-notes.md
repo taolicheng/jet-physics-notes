@@ -1,6 +1,14 @@
 >Brief notes for the very basics
 
-## Intro
+## Theoretical Foundation
+>Core questions:
+>* Can jet substructure be predicted by first-principle QCD calculations and compared to data in a meaningful way?
+>* How accurately is jet substructure described by state-of-the-art MC tools?
+>* How does the impact of additional p-p collisions limit jet substructure performance at the LHC, now and in future operating scenarios?
+>* How powerful is jet substructure in studies of boosted top production, and how can it be made even more powerful?
+
+
+## Practical Aspects
 
 ### Jet Clustering Algorithms
 * Sequential Algorithms
@@ -56,6 +64,8 @@ alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
 
 #### Higgs-Tagging
 
-### Jet Superstructure / Colorflow Analysis 
+### Jet Superstructure / Colorflow Analysis
+
+## Experimental Perfomance
 
 ## Open Questions / Unsolved Problems
