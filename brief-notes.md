@@ -7,6 +7,10 @@
 >* How does the impact of additional p-p collisions limit jet substructure performance at the LHC, now and in future operating scenarios?
 >* How powerful is jet substructure in studies of boosted top production, and how can it be made even more powerful?
 
+NLO Calculation -> Resummation
+![](http://latex.codecogs.com/gif.latex?
+\\textcolor{red}{\\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta}
+)
 
 ## Practical Aspects
 
