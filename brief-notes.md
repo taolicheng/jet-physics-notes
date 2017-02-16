@@ -9,7 +9,7 @@
 
 NLO Calculation -> Resummation
 ![](http://latex.codecogs.com/gif.latex?
-\\textcolor{red}{\\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta}
+\\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta
 )
 
 ## Practical Aspects
@@ -62,6 +62,12 @@ NLO Calculation -> Resummation
   * ratio 
   
   ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+  * Energy correlation functions ECF and the double ratio (![](http://latex.codecogs.com/gif.latex?C_N^\\beta))
+  ![](http://latex.codecogs.com/gif.latex?
+   C_N^\\beta = \\frac{ECF(N+1, \\beta) ECF(N-1, \\beta)}{ECF(N, \\eta)^2} \\
+   ECF(N, \\beta) = \\sum_{i_1 < i_2 < ... < i_N \\in j} \\left(\\prod_{a=1}^N p_{Ti_a}\\right)
+  )
+  * D
 * color flow
 * jet charge
 
