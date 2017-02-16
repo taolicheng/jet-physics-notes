@@ -74,9 +74,10 @@ NLO Calculation -> Resummation ...................
    ![](http://latex.codecogs.com/gif.latex?
    e_N^\\beta = \\frac{ECF(N, \\beta)}{p_{TJ}^N})
   
-  *  ![](http://latex.codecogs.com/gif.latex?M_2^\\beta, ~D_2^\\beta)
+  *  ![](http://latex.codecogs.com/gif.latex?M_2^\\beta, ~D_2^\\beta) [Larkoski, Moult, Neill]
+  
   ![](http://latex.codecogs.com/gif.latex?
-  M_2^\\beta = \\frac{e_3^\\beta}{e_2^\\beta} ~ D_2^\\beta = \\frac{e_3^\\beta}{(e_2^\\beta)^3}
+  M_2^\\beta = \\frac{_1e_3^\\beta}{e_2^\\beta} ~ D_2^\\beta = \\frac{e_3^\\beta}{(e_2^\\beta)^3}
   )
 * color flow
 * jet charge
