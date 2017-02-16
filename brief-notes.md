@@ -71,9 +71,11 @@ NLO Calculation -> Resummation ***************
    ![](http://latex.codecogs.com/gif.latex?
    ECF(N, \\beta) = \\sum_{i_1 < i_2 < ... < i_N \\in j} \\left(\\prod_{a=1}^N p_{Ti_a}\\right)
    \\left( \\prod_{b=1}^{N-1} \\prod_{c=b+1}^N \\Delta R_{i_b i_c} \\right)^\\beta
+   
+   e_N^\\beta = \\frac{ECF(N, \\beta)}{p_{TJ}^N}
   )
   
-  * D
+  *  ![](http://latex.codecogs.com/gif.latex?M_2^\\beta, ~D_2^\\beta)
 * color flow
 * jet charge
 
