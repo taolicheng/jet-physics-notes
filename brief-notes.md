@@ -62,12 +62,15 @@ NLO Calculation -> Resummation
   * ratio 
   
   ![](http://latex.codecogs.com/gif.latex? \\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
+  
   * Energy correlation functions ECF and the double ratio (![](http://latex.codecogs.com/gif.latex?C_N^\\beta))
+  
   ![](http://latex.codecogs.com/gif.latex?
-   C_N^\\beta = \\frac{ECF(N+1, \\beta) ECF(N-1, \\beta)}{ECF(N, \\beta)^2} \\
+   C_N^\\beta = \\frac{ECF(N+1, \\beta) ECF(N-1, \\beta)}{ECF(N, \\beta)^2} ~and~
    ECF(N, \\beta) = \\sum_{i_1 < i_2 < ... < i_N \\in j} \\left(\\prod_{a=1}^N p_{Ti_a}\\right)
    \\left( \\prod_{b=1}^{N-1} \\prod_{c=b+1}^N \\Delta R_{i_b i_c} \\right)^\\beta
   )
+  
   * D
 * color flow
 * jet charge
