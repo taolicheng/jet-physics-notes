@@ -12,6 +12,8 @@ NLO Calculation -> Resummation ...................
 \\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta
 )
 
+Jet substructure calculation at high precision, see [Larkoski's talk](https://indico.cern.ch/event/439039/contributions/2194580/attachments/1310623/1961016/BOOST_2016_Larkoski.pdf)
+
 ## Practical Aspects
 
 ### Jet Clustering Algorithms
