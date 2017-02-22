@@ -1,6 +1,6 @@
 >Brief notes for the very basics
 
-* Theoretical Foundation(#theoretical-foundation)
+* [Theoretical Foundation](#theoretical-foundation)
 
 ## Theoretical Foundation
 >Core questions:
