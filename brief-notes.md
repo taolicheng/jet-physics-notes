@@ -1,6 +1,11 @@
 >Brief notes for the very basics
 
 * [Theoretical Foundation](#theoretical-foundation)
+* [Practical Aspects](#practical-aspects)
+ * [Jet Clustering Algorithms](#jet-clustering-algorithms)
+ * [Jet Grooming Algorithms](#jet-grooming-algorithms)
+ * [Jet Observables](#jet-observables)
+
 
 ## Theoretical Foundation
 >Core questions:
