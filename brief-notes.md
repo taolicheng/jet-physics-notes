@@ -15,12 +15,13 @@
 >* How powerful is jet substructure in studies of boosted top production, and how can it be made even more powerful?
 
 NLO Calculation + Resummation 
+
 ![](http://latex.codecogs.com/gif.latex?
 \\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta
 )
 
 ![](http://latex.codecogs.com/gif.latex?
-\\beta = L g_1(\\alpha_s L) + g_2(\\alpha_s L) + \\alpha_s g_3(\\alpha_s L)
+\\beta = L g_1(\\alpha_s L) + g_2(\\alpha_s L) + \\alpha_s g_3(\\alpha_s L) + ...
 )
 
 Jet substructure calculation at high precision, see [Larkoski's talk](https://indico.cern.ch/event/439039/contributions/2194580/attachments/1310623/1961016/BOOST_2016_Larkoski.pdf)
