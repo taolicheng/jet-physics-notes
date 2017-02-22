@@ -1,5 +1,7 @@
 >Brief notes for the very basics
 
+* Theoretical Foundation(#theoretical-foundation)
+
 ## Theoretical Foundation
 >Core questions:
 >* Can jet substructure be predicted by first-principle QCD calculations and compared to data in a meaningful way?
@@ -10,7 +12,9 @@
 NLO Calculation + Resummation 
 ![](http://latex.codecogs.com/gif.latex?
 \\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta
+)
 
+![](http://latex.codecogs.com/gif.latex?
 \\beta = L g_1(\\alpha_s L) + g_2(\\alpha_s L) + \\alpha_s g_3(\\alpha_s L)
 )
 
