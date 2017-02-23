@@ -41,6 +41,7 @@ Leandro G. Almeida (Ecole Normale Superieure, CNRS) , Mihailo Backović (Louvain
 *  **Jet-images — deep learning edition**,
 Luke de Oliveira (Stanford U., Math. Dept.) , Michael Kagan (SLAC) , Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman, Ariel Schwartzman (SLAC) 
 [[inspire]](http://inspirehep.net/record/1405106)
+* **Searching for Exotic Particles in High-Energy Physics with Deep Learning**, Pierre Baldi, Peter Sadowski (UC, Irvine), Daniel Whiteson (UC, Irvine & Pennsylvania U. & UC, Irvine). arXiv:1402.4735 [[inspire]](https://inspirehep.net/record/1281836) 
 *  **Jet-Images: Computer Vision Inspired Techniques for Jet Tagging**,
 Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 [[inspire]](http://inspirehep.net/record/1307242)
