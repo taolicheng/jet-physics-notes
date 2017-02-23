@@ -35,6 +35,8 @@ Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://insp
 *  **Deep learning in color: towards automated quark/gluon jet discrimination**,
 Patrick T. Komiske, Eric M. Metodiev (MIT, Cambridge, CTP) , Matthew D. Schwartz (Harvard U., Phys. Dept. & Harvard U.)
 [[inspire]](http://inspirehep.net/record/1501944)
+*  **Parn Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks**,
+James Barnard, Edmund Noel Dawe, Matthew J. Dolan, Nina Rajcic (ARC, CoEPP, Melbourne). arXiv:1609.00607
 *  **Playing Tag with ANN: Boosted Top Identification with Pattern Recognition**, 
 Leandro G. Almeida (Ecole Normale Superieure, CNRS) , Mihailo Backović (Louvain U., CP3) , Mathieu Cliche (Cornell U., LEPP) , Seung J. Lee (KAIST, Taejon & Korea Inst. Advanced Study, Seoul) , Maxim Perelstein (Cornell U., LEPP) 
 [[inspire]](http://inspirehep.net/record/1341037)
