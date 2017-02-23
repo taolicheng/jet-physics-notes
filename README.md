@@ -40,7 +40,7 @@ James Barnard, Edmund Noel Dawe, Matthew J. Dolan, Nina Rajcic (ARC, CoEPP, Melb
 *  **Playing Tag with ANN: Boosted Top Identification with Pattern Recognition**, 
 Leandro G. Almeida (Ecole Normale Superieure, CNRS) , Mihailo Backović (Louvain U., CP3) , Mathieu Cliche (Cornell U., LEPP) , Seung J. Lee (KAIST, Taejon & Korea Inst. Advanced Study, Seoul) , Maxim Perelstein (Cornell U., LEPP) 
 [[inspire]](http://inspirehep.net/record/1341037)
-*  **Jet-images — deep learning edition**,
+*  - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` **Jet-images — deep learning edition**,
 Luke de Oliveira (Stanford U., Math. Dept.) , Michael Kagan (SLAC) , Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman, Ariel Schwartzman (SLAC) 
 [[inspire]](http://inspirehep.net/record/1405106)
 * **Searching for Exotic Particles in High-Energy Physics with Deep Learning**, Pierre Baldi, Peter Sadowski (UC, Irvine), Daniel Whiteson (UC, Irvine & Pennsylvania U. & UC, Irvine). arXiv:1402.4735 [[inspire]](https://inspirehep.net/record/1281836) 
