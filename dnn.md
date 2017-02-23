@@ -12,6 +12,7 @@ Basic Steps: https://indico.cern.ch/event/439039/contributions/2194591/attachmen
 
 * **Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks**, 
 James Barnard, Edmund Noel Dawe, Matthew J. Dolan, Nina Rajcic (ARC, CoEPP, Melbourne) arXiv:1609.00607 [[inspire]](https://inspirehep.net/record/1485081)
+
   >By investigating network performance on
-samples from the Pythia, Herwig and Sherpa generators, we find differences of up to **fifty** percent
-in background rejection for fixed signal efficiency.   
+  samples from the Pythia, Herwig and Sherpa generators, we find differences of up to **fifty** percent
+  in background rejection for fixed signal efficiency.   
