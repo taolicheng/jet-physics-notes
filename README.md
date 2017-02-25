@@ -23,6 +23,8 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 ### Jet Superstructure
 
+### Jet Charge
+* **Jet Charge at the LHC**, David Krohn, Matthew D. Schwartz (Harvard U., Phys. Dept.), Tongyan Lin (Chicago U., KICP & Chicago U., EFI), Wouter J. Waalewijn (UC, San Diego). Sep 2012. 5 pp. Phys.Rev.Lett. 110 (2013) no.21, 212001. [[inspire]](http://inspirehep.net/record/1185266)
 
 ## Recent Progress
 
