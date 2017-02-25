@@ -10,4 +10,5 @@ unwrap the contents
   * jet charge
   * inclusive jet cross section
 
-
+## Higgs Report
+[Handbook of LHC Higgs cross sections: 4. Deciphering the nature of the Higgs sector](https://arxiv.org/pdf/1610.07922.pdf)
