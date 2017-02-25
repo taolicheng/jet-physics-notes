@@ -112,6 +112,9 @@ Q_j = \\frac{1}{p_{Tj}^\\kappa} \\sum_{i\\in T} q_i \\times (p_T^i)^\\kappa
 
 ### Jet Superstructure / Colorflow Analysis
 
+### Jet Charge
+* ATLAS results [[inspire]](http://inspirehep.net/record/1313120) 
+
 ## Experimental Perfomance
 >Jet measurements at the LHC. More physics results see [LHC Results](./lhc-results.md)
 
