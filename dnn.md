@@ -1,5 +1,9 @@
 > Notes for using DNN in Jet Physics
 
+## DNN
+> "Representation learning is a set of methods that allows a machine to be fed with **raw data** and to automatically **discover the representations** needed for detection or classification. Deep-learning methods are representation learning methods **with multiple levels of representation** obtained by composing simple but non-linear modules that each transform the representation at one level (starting with the raw input) into a representation at a higher, slightly more abstract level."[LeCun, Bengio, Hinton]
+
+
 ## recent work on treating jets and event using NLP
 
 
