@@ -6,7 +6,7 @@ _[LeCun, Bengio, Hinton]_
 > "Representation learning is a set of methods that allows a machine to be fed with **raw data** and to automatically **discover the representations** needed for detection or classification. Deep-learning methods are representation learning methods **with multiple levels of representation** obtained by composing simple but non-linear modules that each transform the representation at one level (starting with the raw input) into a representation at a higher, slightly more abstract level."
 
 * image -> comes in the form of an array of pixel values -> hierachical concept learning
-* 
+* "shallow" v.s. deep: **"shallow"** classifier requires a good feature extractor(the conventional opiton is to hand design good feature extractors) that solves the selectively-invariance dilemma; **deep** : features are learnt automatically using a **general-purpose** learning procedure.
 
 > "The key aspect of deep learning is that these layers of features are not designed by human enginners: they are learned from data using a general-purpose learning procedure."
 
