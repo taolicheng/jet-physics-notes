@@ -16,6 +16,7 @@ _[LeCun, Bengio, Hinton]_
   * can take advantage of increases in the amount of available computation and data
 * Cons:
   * huge amount of parameters (weights)
+  * requires a lot of computation (of course can be improved by GPU)
   
   
 
