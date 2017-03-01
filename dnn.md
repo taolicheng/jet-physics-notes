@@ -18,3 +18,11 @@ James Barnard, Edmund Noel Dawe, Matthew J. Dolan, Nina Rajcic (ARC, CoEPP, Melb
   >By investigating network performance on
   samples from the Pythia, Herwig and Sherpa generators, we find differences of up to **fifty** percent
   in background rejection for fixed signal efficiency.   
+
+## Comments
+* the key point is to find the best representation of the data, thus
+  * image recognition -> 2D ? but in this format, is all the info sufficiently being encoded?
+  * 
+  
+
+
