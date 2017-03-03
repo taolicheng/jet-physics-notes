@@ -65,6 +65,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 \\left( \\frac{\\Delta R_{12}}{R} \\right)^\\beta)
 
 ### Jet Observables
+* jet area:
 * jet mass: 
 * jet substructure observables
   * Angular Correlation Functions: 
