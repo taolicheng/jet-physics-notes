@@ -34,7 +34,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 
   ![](http://latex.codecogs.com/gif.latex?d_{ij} = min(p_{Ti}^{2\\alpha}, p_{Tj}^{2 \\alpha}) \\frac{\\Delta R_{ij}^2}{R^2})
   
-    ![](http://latex.codecogs.com/gif.latex?d_{iB} = p_{Ti}^2)
+  ![](http://latex.codecogs.com/gif.latex?d_{iB} = p_{Ti}^2)
 
   alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
 
