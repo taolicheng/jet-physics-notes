@@ -22,6 +22,7 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 ### Jet Substructure
 
 ### Jet Superstructure
+* **Seeing in Color: Jet Superstructure**, Jason Gallicchio, Matthew D. Schwartz (Harvard U.). Phys.Rev.Lett. 105 (2010) 022001. [[inspire]](http://inspirehep.net/record/844004)
 
 ### Jet Charge
 * **Jet Charge at the LHC**, David Krohn, Matthew D. Schwartz (Harvard U., Phys. Dept.), Tongyan Lin (Chicago U., KICP & Chicago U., EFI), Wouter J. Waalewijn (UC, San Diego). Sep 2012. 5 pp. Phys.Rev.Lett. 110 (2013) no.21, 212001. [[inspire]](http://inspirehep.net/record/1185266)
