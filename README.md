@@ -35,6 +35,7 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 *  **QCD-Aware Recursive Neural Networks for Jet Physics**, 
 Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://inspirehep.net/record/1511884)
+*  **Jet Flavor Classification in High-Energy Physics with Deep Neural Networks**, Daniel Guest, Julian Collado (UC, Irvine) , Pierre Baldi (UC, Irvine & UC, Irvine) , Shih-Chieh Hsu (Washington U., Seattle & Washington U., Seattle) , Gregor Urban (UC, Irvine) , Daniel Whiteson (UC, Irvine & UC, Irvine). arXiv:1607.08633. [[inspire]](https://inspirehep.net/record/1478597)
 *  **Deep learning in color: towards automated quark/gluon jet discrimination**,
 Patrick T. Komiske, Eric M. Metodiev (MIT, Cambridge, CTP) , Matthew D. Schwartz (Harvard U., Phys. Dept. & Harvard U.)
 [[inspire]](http://inspirehep.net/record/1501944)
