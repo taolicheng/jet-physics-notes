@@ -76,7 +76,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 
   * ratio 
   
-  ![](http://latex.codecogs.com/gif.latex?\tau_{N, N-1}^\beta \equiv \frac{\tau_N^\beta}{\tau_{N-1}^\beta})
+  ![](http://latex.codecogs.com/gif.latex?\\tau_{N, N-1}^\\beta \\equiv \\frac{\\tau_N^\\beta}{\\tau_{N-1}^\\beta})
   
   * Energy correlation functions ECF and the double ratio (![](http://latex.codecogs.com/gif.latex?C_N^\\beta))
   
