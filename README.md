@@ -52,6 +52,10 @@ Luke de Oliveira (Stanford U., Math. Dept.) , Michael Kagan (SLAC) , Lester Mack
 Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 [[inspire]](http://inspirehep.net/record/1307242)
 
+### Flavor Tagging
+*  **Disentangling Heavy Flavor at Colliders**, Philip Ilten (MIT, LNS) , Nicholas L. Rodd, Jesse Thaler (MIT, Cambridge, CTP) , Mike Williams (MIT, LNS), arXiv:1702.02947 [[inspire]](http://inspirehep.net/record/1512923)
+
+
 ## Tools
 
 * [FastJet](http://fastjet.fr/about.html)
