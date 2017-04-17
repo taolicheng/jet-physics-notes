@@ -29,6 +29,9 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 ## Recent Progress
 
+### High Precision Jet Calculation
+* **Factorization for groomed jet substructure beyond the next-to-leading logarithm**, Christopher Frye, Andrew J. Larkoski, Matthew D. Schwartz, Kai Yan (Harvard U., Phys. Dept.) JHEP 1607 (2016) 064. [[inspire]](http://inspirehep.net/record/1437957)
+
 ### Neural Networks for Jet Physics
 
 >The basic idea here is treating jet as image, thus making it possible to employ image techniques in DL.
