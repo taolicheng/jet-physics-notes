@@ -34,10 +34,10 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 * **Analytic Boosted Boson Discrimination**, Andrew J. Larkoski, Ian Moult, Duff Neill (MIT, Cambridge, CTP) JHEP 1605 (2016) 117 [[inspire]](http://inspirehep.net/record/1382586)
 
 ### Neural Networks for Jet Physics
-
->The basic idea here is treating jet as image, thus making it possible to employ image techniques in DL.
-
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
+
+#### Supervised Learning
+
 *  **QCD-Aware Recursive Neural Networks for Jet Physics**, 
 Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://inspirehep.net/record/1511884)
 *  **Jet Flavor Classification in High-Energy Physics with Deep Neural Networks**, Daniel Guest, Julian Collado (UC, Irvine) , Pierre Baldi (UC, Irvine & UC, Irvine) , Shih-Chieh Hsu (Washington U., Seattle & Washington U., Seattle) , Gregor Urban (UC, Irvine) , Daniel Whiteson (UC, Irvine & UC, Irvine). arXiv:1607.08633. [[inspire]](https://inspirehep.net/record/1478597)
@@ -56,6 +56,12 @@ Luke de Oliveira (Stanford U., Math. Dept.) , Michael Kagan (SLAC) , Lester Mack
 *  **Jet-Images: Computer Vision Inspired Techniques for Jet Tagging**,
 Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 [[inspire]](http://inspirehep.net/record/1307242)
+
+
+#### Unsupervised Learning
+* **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**, 
+Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) , Benjamin Nachman (LBNL, Berkeley) 
+, arXiv:1701.05927 [[inspire]](http://inspirehep.net/record/1510258/)
 
 ### Flavor Tagging
 *  **Disentangling Heavy Flavor at Colliders**, Philip Ilten (MIT, LNS) , Nicholas L. Rodd, Jesse Thaler (MIT, Cambridge, CTP) , Mike Williams (MIT, LNS), arXiv:1702.02947 [[inspire]](http://inspirehep.net/record/1512923)
