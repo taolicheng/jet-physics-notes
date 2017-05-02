@@ -63,8 +63,7 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 Lucio Mwinmaarong Dery (Stanford U., Phys. Dept.) , Benjamin Nachman (LBL, Berkeley) , Francesco Rubbo, Ariel Schwartzman (SLAC) arXiv:1702.00414. [[inspire]](http://inspirehep.net/record/1511880)
 * **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**, 
 Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) , Benjamin Nachman (LBNL, Berkeley) 
-, arXiv:1701.05927 [[inspire]](http://inspirehep.net/record/1510258/)
-> using GAN to do MC 
+, arXiv:1701.05927 [[inspire]](http://inspirehep.net/record/1510258/) > using GAN to do MC 
 
 ### Flavor Tagging
 *  **Disentangling Heavy Flavor at Colliders**, Philip Ilten (MIT, LNS) , Nicholas L. Rodd, Jesse Thaler (MIT, Cambridge, CTP) , Mike Williams (MIT, LNS), arXiv:1702.02947 [[inspire]](http://inspirehep.net/record/1512923)
