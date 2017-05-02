@@ -59,6 +59,8 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 
 
 #### Unsupervised Learning
+* **Weakly Supervised Classification in High Energy Physics**,
+Lucio Mwinmaarong Dery (Stanford U., Phys. Dept.) , Benjamin Nachman (LBL, Berkeley) , Francesco Rubbo, Ariel Schwartzman (SLAC) arXiv:1702.00414. [[inspire]](http://inspirehep.net/record/1511880)
 * **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**, 
 Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) , Benjamin Nachman (LBNL, Berkeley) 
 , arXiv:1701.05927 [[inspire]](http://inspirehep.net/record/1510258/)
