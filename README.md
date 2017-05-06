@@ -20,6 +20,7 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 ## Applications
 
 ### Jet Substructure
+* **Quark and Gluon Jet Substructure**,  Jason Gallicchio (UC, Davis) , Matthew D. Schwartz (Harvard U., Phys. Dept.). arXiv:1211.7038 [[inspire]](http://inspirehep.net/record/1204790)
 
 ### Jet Superstructure
 * **Seeing in Color: Jet Superstructure**, Jason Gallicchio, Matthew D. Schwartz (Harvard U.). Phys.Rev.Lett. 105 (2010) 022001. [[inspire]](http://inspirehep.net/record/844004)
