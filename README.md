@@ -70,6 +70,9 @@ Lucio Mwinmaarong Dery (Stanford U., Phys. Dept.) , Benjamin Nachman (LBL, Berke
 Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) , Benjamin Nachman (LBNL, Berkeley) 
 , arXiv:1701.05927 [[inspire]](http://inspirehep.net/record/1510258/) > using GAN to do MC 
 
+#### Traditional but useful Examples
+* **Enhanced Higgs Boson to τ+τ− Search with Deep Learning**, Pierre Baldi, Peter Sadowski, Daniel Whiteson (UC, Irvine). arXiv:1410.3469. [[inspire]](http://inspirehep.net/record/1322089)
+
 ### Flavor Tagging
 *  **Disentangling Heavy Flavor at Colliders**, Philip Ilten (MIT, LNS) , Nicholas L. Rodd, Jesse Thaler (MIT, Cambridge, CTP) , Mike Williams (MIT, LNS), arXiv:1702.02947 [[inspire]](http://inspirehep.net/record/1512923)
 
