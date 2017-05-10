@@ -17,6 +17,7 @@ D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. B
 A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne) , J. Backus Mayes (SLAC) , E. Bergeaas Kuutmann (DESY) , J. Berger (Cornell U., Phys. Dept.) , D. Bjergaard (Duke U.) , L. Bryngemark (Lund U.) , A. Buckley (Edinburgh U.) , J. Butterworth (University Coll. London) et al. [[inspire]](http://inspirehep.net/record/1264118)
 * **Investigating the Quantum Properties of Jets and the Search for a Supersymmetric Top Quark Partner with the ATLAS Detector**, Benjamin Nachman (Stanford U., Phys. Dept.). CERN-THESIS-2016-083, arXiv:1609.03242. [[inspire]](http://inspirehep.net/record/1486232)
 
+
 ## Applications
 
 ### Jet Substructure
