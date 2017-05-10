@@ -2,6 +2,7 @@
 > Knowledge base for Jet Physics at the LHC
 
 * [Basics](#basics)
+* [Jet Algorithms](#jet-algorithms)
 * [Applications](#applications)
 * [Recent Progress](#recent-progress)
 * [Tools](#tools)
