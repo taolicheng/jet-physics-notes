@@ -50,6 +50,7 @@ Patrick T. Komiske, Eric M. Metodiev (MIT, Cambridge, CTP) , Matthew D. Schwartz
 [[inspire]](http://inspirehep.net/record/1501944)
 *  **Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks**,
 James Barnard, Edmund Noel Dawe, Matthew J. Dolan, Nina Rajcic (ARC, CoEPP, Melbourne). arXiv:1609.00607. [[inspire]](https://inspirehep.net/record/1485081)
+* **Jet Substructure Classification in High-Energy Physics with Deep Neural Networks**, Pierre Baldi, Kevin Bauer (UC, Irvine) , Clara Eng (UC, Berkeley, Chem. Eng. Dept.) , Peter Sadowski, Daniel Whiteson (UC, Irvine),arXiv:1603.09349. [[inspire]](http://inspirehep.net/record/1437937)
 *  **Playing Tag with ANN: Boosted Top Identification with Pattern Recognition**, 
 Leandro G. Almeida (Ecole Normale Superieure, CNRS) , Mihailo Backović (Louvain U., CP3) , Mathieu Cliche (Cornell U., LEPP) , Seung J. Lee (KAIST, Taejon & Korea Inst. Advanced Study, Seoul) , Maxim Perelstein (Cornell U., LEPP) 
 [[inspire]](http://inspirehep.net/record/1341037)
