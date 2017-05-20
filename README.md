@@ -40,6 +40,10 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 * **Generalized Fragmentation Functions for Fractal Jet Observables**, Benjamin T. Elder (MIT, Cambridge, CTP) , Massimiliano Procura (CERN) , Jesse Thaler (MIT, Cambridge, CTP) , Wouter J. Waalewijn (Amsterdam U. & NIKHEF, Amsterdam) , Kevin Zhou (MIT, Cambridge, CTP), arXiv:1704.05456. [[inspire]](http://inspirehep.net/record/1592379)
 
+* **Fractal based observables to probe jet substructure of quarks and gluons**,
+Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[inspire]](http://inspirehep.net/record/1515999) 
+
+
 ### High Precision Jet Calculation
 * **Factorization for groomed jet substructure beyond the next-to-leading logarithm**, Christopher Frye, Andrew J. Larkoski, Matthew D. Schwartz, Kai Yan (Harvard U., Phys. Dept.) JHEP 1607 (2016) 064. [[inspire]](http://inspirehep.net/record/1437957)
 * **Analytic Boosted Boson Discrimination**, Andrew J. Larkoski, Ian Moult, Duff Neill (MIT, Cambridge, CTP) JHEP 1605 (2016) 117 [[inspire]](http://inspirehep.net/record/1382586)
