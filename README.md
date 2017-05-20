@@ -46,7 +46,6 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
 
 #### Supervised Learning
-
 *  **QCD-Aware Recursive Neural Networks for Jet Physics**, 
 Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://inspirehep.net/record/1511884)
 *  **Jet Flavor Classification in High-Energy Physics with Deep Neural Networks**, Daniel Guest, Julian Collado (UC, Irvine) , Pierre Baldi (UC, Irvine & UC, Irvine) , Shih-Chieh Hsu (Washington U., Seattle & Washington U., Seattle) , Gregor Urban (UC, Irvine) , Daniel Whiteson (UC, Irvine & UC, Irvine). arXiv:1607.08633. [[inspire]](https://inspirehep.net/record/1478597)
@@ -68,7 +67,9 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 [[inspire]](http://inspirehep.net/record/1307242)
 
 
-#### Unsupervised Learning
+#### Unsupervised Learning and other
+* **Decorrelated Jet Substructure Tagging using Adversarial Neural Networks**,
+Chase Shimmin, Peter Sadowski, Pierre Baldi, Edison Weik, Daniel Whiteson (UC, Irvine) , Edward Goul (MIT, Cambridge, Dept. Phys.) , Andreas Søgaard (Edinburgh U.), e-Print: arXiv:1703.03507. [[inspire]](http://inspirehep.net/record/1516914)
 * **Weakly Supervised Classification in High Energy Physics**,
 Lucio Mwinmaarong Dery (Stanford U., Phys. Dept.) , Benjamin Nachman (LBL, Berkeley) , Francesco Rubbo, Ariel Schwartzman (SLAC) arXiv:1702.00414. [[inspire]](http://inspirehep.net/record/1511880)
 * **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**, 
