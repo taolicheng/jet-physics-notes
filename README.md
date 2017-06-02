@@ -22,6 +22,8 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 ## Jet Algorithms
 *  **Qjets: A Non-Deterministic Approach to Tree-Based Jet Substructure**, Stephen D. Ellis, Andrew Hornig, Tuhin S. Roy (Washington U., Seattle) , David Krohn, Matthew D. Schwartz (Harvard U.). arXiv:1201.1914. [[inspire]](http://inspirehep.net/record/1084055)
 
+*  **Fuzzy Jets**, Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman (Stanford U., Phys. Dept. & SLAC) , Ariel Schwartzman (SLAC) , Conrad Stansbury (Stanford U., Phys. Dept.) arXiv:1509.02216 [[inspire]](https://inspirehep.net/record/1392463)
+
 ## Applications
 
 ### Jet Substructure
