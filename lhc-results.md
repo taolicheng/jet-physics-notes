@@ -1,8 +1,5 @@
 > Hosting highlight results from ATLAS and CMS
 
-## Recent Conference Results
-LHCP2017: https://indico.cern.ch/event/517784/page/8817-scientific-programme
-
 **To-Do**:
 unwrap the contents
 
@@ -12,6 +9,9 @@ unwrap the contents
 * CMS: recent jet measurements https://indico.cern.ch/event/439039/contributions/2223290/attachments/1310697/1961554/BoostTalk_final.pdf
   * jet charge [[CERN CDS]](http://cds.cern.ch/record/2157072/files/SMP-15-003-pas.pdf)
   * inclusive jet cross section
+  
+## Recent Conference Results
+LHCP2017: https://indico.cern.ch/event/517784/page/8817-scientific-programme
 
 ## Higgs Report
 [Handbook of LHC Higgs cross sections: 4. Deciphering the nature of the Higgs sector](https://arxiv.org/pdf/1610.07922.pdf)
