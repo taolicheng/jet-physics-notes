@@ -46,6 +46,9 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
   * deterministic annealing (DA)
   * optimal jet finder (OJF)
   
+* Alternatives
+  * Jet Energy Flow: Snowmass 2001: Jet energy flow project, hep-ph/0202207 [[inspire]](http://inspirehep.net/record/583276)
+
 ### Jet Grooming Algorithms
 * Pruning: re-cluster the constituents using C/A algo.. Discard soft branches if
   
