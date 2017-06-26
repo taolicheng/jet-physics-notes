@@ -89,6 +89,9 @@ Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) 
 ### Flavor Tagging
 *  **Disentangling Heavy Flavor at Colliders**, Philip Ilten (MIT, LNS) , Nicholas L. Rodd, Jesse Thaler (MIT, Cambridge, CTP) , Mike Williams (MIT, LNS), arXiv:1702.02947 [[inspire]](http://inspirehep.net/record/1512923)
 
+## Interesting Asepcts
+* **Jet clustering dependence of VBF Higgs production**, Michael Rauch, Dieter Zeppenfeld (KIT, Karlsruhe, TP). arXiv:1703.05676. [[inspire]](http://inspirehep.net/record/1517797)
+
 
 ## Tools
 
