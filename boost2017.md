@@ -15,7 +15,7 @@ Time: Jul. 16 - Jul. 21, 2017
 
 #### Theory Overview
 
-#### Exp. Overview
+#### Exp. Overview (by Lily Asquith)
 
 ![](images/boost2017_day1_exptalks.png)
 
