@@ -31,3 +31,11 @@ Time: Jul. 16 - Jul. 21, 2017
      * First successful step towards DNN-based taggers in CMS
 
 * DeepFlavor: Conv + Recurrent + Dense
+
+## Fractal Observables
+
+
+
+## CMS Open Data
+
+* 
