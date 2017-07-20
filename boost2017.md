@@ -31,6 +31,8 @@ Time: Jul. 16 - Jul. 21, 2017
 
 ## Algorithms
 
+* Recursive Soft Drop: by [[Frédéric Dreyer]](https://indico.cern.ch/event/579660/contributions/2582124/attachments/1494274/2324328/talk_boost17.pdf)
+
 ## Electroweak Shower
 
 ## DNN
