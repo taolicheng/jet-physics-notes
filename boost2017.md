@@ -8,6 +8,7 @@ Time: Jul. 16 - Jul. 21, 2017
 * [Day 1](#day1)
 
 ## BOOST Camp
+![](images/boost2017_jet_map.png)
 
 #### Lund Diagram
 
@@ -27,6 +28,8 @@ Time: Jul. 16 - Jul. 21, 2017
 ## Fractal Observables
 
 * [[Ben Elder]](https://indico.cern.ch/event/579660/contributions/2582110/attachments/1494146/2324046/elder-boost-presentation.pdf)
+
+## Algorithms
 
 ## Electroweak Shower
 
