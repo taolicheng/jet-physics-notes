@@ -34,6 +34,7 @@ Time: Jul. 16 - Jul. 21, 2017
 
 ## Fractal Observables
 
+* [[Ben Elder]](https://indico.cern.ch/event/579660/contributions/2582110/attachments/1494146/2324046/elder-boost-presentation.pdf)
 
 
 ## CMS Open Data
