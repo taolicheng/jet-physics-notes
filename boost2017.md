@@ -23,6 +23,13 @@ Time: Jul. 16 - Jul. 21, 2017
 ![](images/boost2017_day1_lhcruns.png)
 
 
+## Electroweak Shower
+
+## Fractal Observables
+
+* [[Ben Elder]](https://indico.cern.ch/event/579660/contributions/2582110/attachments/1494146/2324046/elder-boost-presentation.pdf)
+
+
 ## DNN
 
 * DeepCSV [[Jan Kieseler @ CMS]](https://indico.cern.ch/event/579660/contributions/2582146/attachments/1495720/2327116/JK_MLatCMS.pdf)
@@ -31,10 +38,6 @@ Time: Jul. 16 - Jul. 21, 2017
      * First successful step towards DNN-based taggers in CMS
 
 * DeepFlavor: Conv + Recurrent + Dense
-
-## Fractal Observables
-
-* [[Ben Elder]](https://indico.cern.ch/event/579660/contributions/2582110/attachments/1494146/2324046/elder-boost-presentation.pdf)
 
 
 ## CMS Open Data
