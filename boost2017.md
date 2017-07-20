@@ -23,12 +23,12 @@ Time: Jul. 16 - Jul. 21, 2017
 ![](images/boost2017_day1_lhcruns.png)
 
 
-## Electroweak Shower
 
 ## Fractal Observables
 
 * [[Ben Elder]](https://indico.cern.ch/event/579660/contributions/2582110/attachments/1494146/2324046/elder-boost-presentation.pdf)
 
+## Electroweak Shower
 
 ## DNN
 
@@ -39,6 +39,7 @@ Time: Jul. 16 - Jul. 21, 2017
 
 * DeepFlavor: Conv + Recurrent + Dense
 
+## Pileup
 
 ## CMS Open Data
 
