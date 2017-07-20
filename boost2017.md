@@ -21,3 +21,8 @@ Time: Jul. 16 - Jul. 21, 2017
 ![](images/boost2017_day1_exptalks.png)
 
 ![](images/boost2017_day1_lhcruns.png)
+
+
+## DNN
+
+* b-tagging: DeepCSV
