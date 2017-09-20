@@ -43,6 +43,9 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 ## Recent Progress
 
+* **Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning**, Andrew J. Larkoski, Ian Moult, Benjamin Nachman. e-Print: arXiv:1709.04464. [[inspire]](http://inspirehep.net/record/1623553)
+
+
 * **Generalized Fragmentation Functions for Fractal Jet Observables**, Benjamin T. Elder (MIT, Cambridge, CTP) , Massimiliano Procura (CERN) , Jesse Thaler (MIT, Cambridge, CTP) , Wouter J. Waalewijn (Amsterdam U. & NIKHEF, Amsterdam) , Kevin Zhou (MIT, Cambridge, CTP), arXiv:1704.05456. [[inspire]](http://inspirehep.net/record/1592379)
 
 * **Fractal based observables to probe jet substructure of quarks and gluons**,
