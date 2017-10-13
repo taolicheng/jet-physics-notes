@@ -57,6 +57,9 @@ Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[ins
 * **Analytic Boosted Boson Discrimination**, Andrew J. Larkoski, Ian Moult, Duff Neill (MIT, Cambridge, CTP) JHEP 1605 (2016) 117 [[inspire]](http://inspirehep.net/record/1382586)
 
 ### Neural Networks for Jet Physics
+* **Novel Jet Observables from Machine Learning**, Kaustuv Datta, Andrew J. Larkoski. Oct 3, 2017 - 13 pages, e-Print: arXiv:1710.01305 [hep-ph]  [[inspire]](http://inspirehep.net/record/1628645)
+
+
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
 
 #### Supervised Learning
