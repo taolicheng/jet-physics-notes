@@ -111,6 +111,8 @@ Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) 
 
 ## Experimental Database
 * HEPData: https://hepdata.net/
+* CERN OpenData: http://opendata.cern.ch/
+* OpenML: https://www.openml.org
 
 ## Tools
 
