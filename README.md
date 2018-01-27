@@ -121,7 +121,7 @@ Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) 
 ## Conferences
 
 * [Machine Learning for Jet Physics](https://indico.physics.lbl.gov/indico/event/546/overview)
-* [Deep Learning for Physical Sciences](https://dl4physicalsciences.github.io/)
+* [Deep Learning for Physical Sciences (NIPS2017)](https://dl4physicalsciences.github.io/)
 * [Boost 2018](https://indico.cern.ch/event/649482/overview)
 * [Boost 2017](https://indico.cern.ch/event/579660/overview) [[Notes]](boost2017.md)
 * [Boost 2016](https://indico.cern.ch/event/439039/timetable/#20160718)
