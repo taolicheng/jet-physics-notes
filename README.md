@@ -62,6 +62,10 @@ Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[ins
 
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
 
+#### Unsupervised Learning
+* ** JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics**,
+Anders Andreassen (Harvard U.), Ilya Feige (Control Data, London), Christopher Frye, Matthew D. Schwartz (Harvard U.). arXiv:1804.09720. [[inspire]](http://inspirehep.net/record/1670172)
+
 #### Supervised Learning
 *  **QCD-Aware Recursive Neural Networks for Jet Physics**, 
 Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://inspirehep.net/record/1511884)
@@ -84,7 +88,7 @@ Josh Cogan, Michael Kagan, Emanuel Strauss, Ariel Schwarztman (SLAC)
 [[inspire]](http://inspirehep.net/record/1307242)
 
 
-#### Unsupervised Learning and Others
+#### Generative Models and Others
 * **Decorrelated Jet Substructure Tagging using Adversarial Neural Networks**,
 Chase Shimmin, Peter Sadowski, Pierre Baldi, Edison Weik, Daniel Whiteson (UC, Irvine) , Edward Goul (MIT, Cambridge, Dept. Phys.) , Andreas Søgaard (Edinburgh U.), e-Print: arXiv:1703.03507. [[inspire]](http://inspirehep.net/record/1516914)
 * **Weakly Supervised Classification in High Energy Physics**,
