@@ -45,12 +45,13 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 * **Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning**, Andrew J. Larkoski, Ian Moult, Benjamin Nachman. e-Print: arXiv:1709.04464. [[inspire]](http://inspirehep.net/record/1623553)
 
-
 * **Generalized Fragmentation Functions for Fractal Jet Observables**, Benjamin T. Elder (MIT, Cambridge, CTP) , Massimiliano Procura (CERN) , Jesse Thaler (MIT, Cambridge, CTP) , Wouter J. Waalewijn (Amsterdam U. & NIKHEF, Amsterdam) , Kevin Zhou (MIT, Cambridge, CTP), arXiv:1704.05456. [[inspire]](http://inspirehep.net/record/1592379)
 
 * **Fractal based observables to probe jet substructure of quarks and gluons**,
 Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[inspire]](http://inspirehep.net/record/1515999) 
 
+*  **Convolved Substructure: Analytically Decorrelating Jet Substructure Observables**,
+Ian Moult (LBNL, Berkeley & UC, Berkeley), Benjamin Nachman (LBL, Berkeley), Duff Neill (Los Alamos Natl. Lab., Theor. Div.). arXiv:1710.06859. [[inspire]](http://inspirehep.net/record/1631634)
 
 ### High Precision Jet Calculation
 * **Factorization for groomed jet substructure beyond the next-to-leading logarithm**, Christopher Frye, Andrew J. Larkoski, Matthew D. Schwartz, Kai Yan (Harvard U., Phys. Dept.) JHEP 1607 (2016) 064. [[inspire]](http://inspirehep.net/record/1437957)
@@ -58,7 +59,6 @@ Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[ins
 
 ### Neural Networks for Jet Physics
 * **Novel Jet Observables from Machine Learning**, Kaustuv Datta, Andrew J. Larkoski. Oct 3, 2017 - 13 pages, e-Print: arXiv:1710.01305 [hep-ph]  [[inspire]](http://inspirehep.net/record/1628645)
-
 
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
 
