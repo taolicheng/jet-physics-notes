@@ -63,7 +63,7 @@ Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[ins
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
 
 #### Unsupervised Learning
-* ** JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics**,
+* **JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics**,
 Anders Andreassen (Harvard U.), Ilya Feige (Control Data, London), Christopher Frye, Matthew D. Schwartz (Harvard U.). arXiv:1804.09720. [[inspire]](http://inspirehep.net/record/1670172)
 
 #### Supervised Learning
@@ -121,6 +121,7 @@ Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) 
 ## Tools
 
 * [FastJet](http://fastjet.fr/about.html)
+* [Scikit-HEP](https://github.com/scikit-hep/scikit-hep)
 
 ## Conferences
 
