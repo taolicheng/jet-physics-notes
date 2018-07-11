@@ -58,6 +58,10 @@ Ian Moult (LBNL, Berkeley & UC, Berkeley), Benjamin Nachman (LBL, Berkeley), Duf
 * **Analytic Boosted Boson Discrimination**, Andrew J. Larkoski, Ian Moult, Duff Neill (MIT, Cambridge, CTP) JHEP 1605 (2016) 117 [[inspire]](http://inspirehep.net/record/1382586)
 
 ### Neural Networks for Jet Physics
+* **Deep Learning as a Parton Shower**, James William Monk. arXiv:1807.03685. [[inspire]](https://inspirehep.net/record/1681665)
+
+* **CWoLa Hunting: Extending the Bump Hunt with Machine Learning**, Jack H. Collins (Maryland U. & Johns Hopkins U.), Kiel Howe (Fermilab), Benjamin Nachman (UC, Berkeley & LBL, Berkeley). arXiv:1807.03685. [[inspire]](http://inspirehep.net/record/1672143)
+
 * **Novel Jet Observables from Machine Learning**, Kaustuv Datta, Andrew J. Larkoski. Oct 3, 2017 - 13 pages, e-Print: arXiv:1710.01305 [hep-ph]  [[inspire]](http://inspirehep.net/record/1628645)
 
 * **How Much Information is in a Jet?**, Kaustuv Datta, Andrew Larkoski, arXiv:1704.08249. [[inspire]](https://inspirehep.net/record/1597121)
