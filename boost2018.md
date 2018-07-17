@@ -23,6 +23,9 @@
 #### Boost Tagger Performance (ATLAS and CMS)
 * W/Top
 
+#### Jet Substructure Measurements in pp collisions
+
+
 #### Jet Substructure Measurements in PbPb Collisions
 * ALICE:
   * Lund Plane: recluester -> coordinate information -> Lund Plane -> distr.
@@ -38,4 +41,7 @@
 #### Machine Learning
 * AutoEncoder -> signal detection with only bg samples
 * LLP and CWoLa
+* CWoLa Bump Hunting
+
+
 
