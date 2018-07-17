@@ -24,7 +24,7 @@
 * W/Top
 
 #### Jet Substructure Measurements in pp collisions
-* ALICE: colorflow
+* ALICE: colorflow in ttbar events (Jenni, SD mass...)
 
 #### Jet Substructure Measurements in PbPb Collisions
 * ALICE:
