@@ -34,3 +34,8 @@
   * correlated bkg -> (issues in jet clustering)
   * centrality
   * RAA v.s. jet mass (ATLAS)
+
+#### Machine Learning
+* AutoEncoder -> signal detection with only bg samples
+* 
+
