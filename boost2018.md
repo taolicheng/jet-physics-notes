@@ -40,7 +40,8 @@
 
 #### Machine Learning
 * AutoEncoder -> signal detection with only bg samples
-* LLP and CWoLa
+* LLP and CWoLa, used for high-dimensional data (jet images)
+  * loss function for LLP
 * CWoLa Bump Hunting
 
 
