@@ -1,11 +1,8 @@
 ## Day 1
 
-### Morning
 #### Ex Overview
 
 #### Th Overview (Ben Nachman)
-
-### Afternoon
 
 #### Jet and Missing ET Reconstruction and Calibration (Christofer Young)
 * Pile-up subtraction
@@ -16,3 +13,24 @@
 
 #### PUPPI @ CMS
 * **FPGA friendly jet algo.**
+
+-----
+## Day 2
+#### Pile-up Mitigation (ATLAS and CMS)
+* Methods: CHS (Charged Hadron Subtraction), Particle Flow, Pileup Jet ID, PUPPI (Pileup Per Particle Identification), CS (Constituent Subtraction)
+* 
+
+#### Boost Tagger Performance (ATLAS and CMS)
+* W/Top
+
+#### Jet Substructure Measurements in PbPb Collisions
+* ALICE:
+  * Lund Plane: recluester -> coordinate information -> Lund Plane -> distr.
+  * n_(SD): number of splittings passing SD
+  * Color decoherence (medium response)
+  * tau21 -> obsere large kt medium-induced radiations 
+* CMS and ATLAS
+  * main issues: underlying events subtraction, 
+  * correlated bkg -> (issues in jet clustering)
+  * centrality
+  * RAA v.s. jet mass (ATLAS)
