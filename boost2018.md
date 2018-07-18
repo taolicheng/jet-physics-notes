@@ -50,3 +50,12 @@
 #### Calculations
 * pull angle and magnitude
 
+#### Jet Substructure Measurements and Searches
+* ATLAS: tau21'(empirical) -> mass desculpting
+
+#### New Jet Substructure Tools
+* Lund Plane (lund images...)
+* Energy Flow Polynomial Basis
+
+-----
+## Day 4
