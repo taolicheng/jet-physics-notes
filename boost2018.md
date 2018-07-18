@@ -44,5 +44,9 @@
   * loss function for LLP
 * CWoLa Bump Hunting
 
+-----
+## Day 3
 
+#### Calculations
+* pull angle and magnitude
 
