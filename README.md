@@ -71,6 +71,7 @@ Ian Moult (LBNL, Berkeley & UC, Berkeley), Benjamin Nachman (LBL, Berkeley), Duf
 Anders Andreassen (Harvard U.), Ilya Feige (Control Data, London), Christopher Frye, Matthew D. Schwartz (Harvard U.). arXiv:1804.09720. [[inspire]](http://inspirehep.net/record/1670172)
 
 #### Supervised Learning
+* **Boosting H→bb¯ with Machine Learning**, Joshua Lin, Marat Freytsis, Ian Moult, Benjamin Nachman. [[inspire]](http://inspirehep.net/record/1684331)
 *  **QCD-Aware Recursive Neural Networks for Jet Physics**, 
 Gilles Louppe, Kyunghyun Cho, Cyril Becot, Kyle Cranmer. [[inspire]](http://inspirehep.net/record/1511884)
 *  **Jet Flavor Classification in High-Energy Physics with Deep Neural Networks**, Daniel Guest, Julian Collado (UC, Irvine) , Pierre Baldi (UC, Irvine & UC, Irvine) , Shih-Chieh Hsu (Washington U., Seattle & Washington U., Seattle) , Gregor Urban (UC, Irvine) , Daniel Whiteson (UC, Irvine & UC, Irvine). arXiv:1607.08633. [[inspire]](https://inspirehep.net/record/1478597)
