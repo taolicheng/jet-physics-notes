@@ -13,6 +13,7 @@
 
 ## Basics
 
+* **A Parametrization of the Properties of Quark Jets**, R.D. Field, R.P. Feynman (Caltech) Nov 1977. Nucl.Phys. B136 (1978) 1. [[inspire]](http://inspirehep.net/record/5957?ln=en)
 *  **Towards Jetography**, Gavin P. Salam (Paris, LPTHE). arXiv:0906.1833. [[inspire]](http://inspirehep.net/record/822643)
 *  **Towards an Understanding of the Correlations in Jet Substructure**
 D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. Backovic (Louvain U.) , T. Barillari (Munich, Max Planck Inst.) , P. Berta (Charles U.) , D. Bertolini (UC, Berkeley) , A. Buckley (Glasgow U.) , J. Butterworth (University Coll. London) , R.C. Camacho Toro (Geneva U.) et al. arXiv:1504.00679  [[inspire]](http://inspirehep.net/record/1357881)
