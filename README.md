@@ -13,11 +13,11 @@
 
 ## Basics
 
-*  **Towards Jetography**, Gavin P. Salam (Paris, LPTHE). [[inspire]](http://inspirehep.net/record/822643)
+*  **Towards Jetography**, Gavin P. Salam (Paris, LPTHE). arXiv:0906.1833. [[inspire]](http://inspirehep.net/record/822643)
 *  **Towards an Understanding of the Correlations in Jet Substructure**
-D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. Backovic (Louvain U.) , T. Barillari (Munich, Max Planck Inst.) , P. Berta (Charles U.) , D. Bertolini (UC, Berkeley) , A. Buckley (Glasgow U.) , J. Butterworth (University Coll. London) , R.C. Camacho Toro (Geneva U.) et al. [[inspire]](http://inspirehep.net/record/1357881)
+D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. Backovic (Louvain U.) , T. Barillari (Munich, Max Planck Inst.) , P. Berta (Charles U.) , D. Bertolini (UC, Berkeley) , A. Buckley (Glasgow U.) , J. Butterworth (University Coll. London) , R.C. Camacho Toro (Geneva U.) et al. arXiv:1504.00679  [[inspire]](http://inspirehep.net/record/1357881)
 *  **Boosted objects and jet substructure at the LHC. Report of BOOST2012**, held at IFIC Valencia, 23rd-27th of July 2012
-A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne) , J. Backus Mayes (SLAC) , E. Bergeaas Kuutmann (DESY) , J. Berger (Cornell U., Phys. Dept.) , D. Bjergaard (Duke U.) , L. Bryngemark (Lund U.) , A. Buckley (Edinburgh U.) , J. Butterworth (University Coll. London) et al. [[inspire]](http://inspirehep.net/record/1264118)
+A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne) , J. Backus Mayes (SLAC) , E. Bergeaas Kuutmann (DESY) , J. Berger (Cornell U., Phys. Dept.) , D. Bjergaard (Duke U.) , L. Bryngemark (Lund U.) , A. Buckley (Edinburgh U.) , J. Butterworth (University Coll. London) et al. arXiv:1311.2708. [[inspire]](http://inspirehep.net/record/1264118)
 * **Investigating the Quantum Properties of Jets and the Search for a Supersymmetric Top Quark Partner with the ATLAS Detector**, Benjamin Nachman (Stanford U., Phys. Dept.). CERN-THESIS-2016-083, arXiv:1609.03242. [[inspire]](http://inspirehep.net/record/1486232)
 
 
