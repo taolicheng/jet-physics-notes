@@ -24,6 +24,7 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 ## Jet Algorithms
 *  **Fuzzy Jets**, Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman (Stanford U., Phys. Dept. & SLAC) , Ariel Schwartzman (SLAC) , Conrad Stansbury (Stanford U., Phys. Dept.) arXiv:1509.02216 [[inspire]](https://inspirehep.net/record/1392463)
+* **XCone: N-jettiness as an Exclusive Cone Jet Algorithm**, Iain W. Stewart (MIT, Cambridge, CTP), Frank J. Tackmann (DESY), Jesse Thaler (MIT, Cambridge, CTP), Christopher K. Vermilion (LBNL, Berkeley), Thomas F. Wilkason (MIT, Cambridge, CTP). arXiv:1508.01516. [[inspire]](http://inspirehep.net/record/1387174)
 *  **Qjets: A Non-Deterministic Approach to Tree-Based Jet Substructure**, Stephen D. Ellis, Andrew Hornig, Tuhin S. Roy (Washington U., Seattle) , David Krohn, Matthew D. Schwartz (Harvard U.). arXiv:1201.1914. [[inspire]](http://inspirehep.net/record/1084055)
 * **Deterministic annealing as a jet clustering algorithm in hadronic collisions**, L. Angelini, G. Nardulli (Bari U. & TIRES, Bari & INFN, Bari), L. Nitti (TIRES, Bari & INFN, Bari), M. Pellicoro (Bari U. & TIRES, Bari & INFN, Bari), D. Perrino (Bari U. & INFN, Bari), S. Stramaglia (Bari U. & TIRES, Bari & INFN, Bari). arXiv:hep-ph/0407214. [[inspire]](http://inspirehep.net/record/654777)
 * **FFTJet: A Package for Multiresolution Particle Jet Reconstruction in the Fourier Domain**, I. Volobouev. arXiv:0907.0270. [[inspire]](http://inspirehep.net/record/824726)
