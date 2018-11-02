@@ -38,6 +38,8 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 * **Systematics of quark/gluon tagging**, Philippe Gras (IRFU, Saclay) , Stefan Hoeche (SLAC) , Deepak Kar (Witwatersrand U.) , Andrew Larkoski (Reed Coll.) , Leif Lönnblad (Lund U. & Lund U., Dept. Theor. Phys.) , Simon Plätzer (Durham U. & Durham U., IPPP & Manchester U.) , Andrzej Siódmok (CERN & Cracow, INP) , Peter Skands (Monash U.) , Gregory Soyez (IPhT, Saclay) , Jesse Thaler (MIT, Cambridge, CTP). arXiv:1704.03878. [[inspire]](http://inspirehep.net/record/1591528)
 * **Jet shapes for boosted jet two-prong decays from first-principles**, Mrinal Dasgupta (Manchester U.), Lais Schunk (IPhT, Saclay), Gregory Soyez (IPhT, Saclay & Liege U.).  arXiv:1512.00516. [[inspire]](http://inspirehep.net/record/1407831)
 * **Quark and Gluon Jet Substructure**,  Jason Gallicchio (UC, Davis) , Matthew D. Schwartz (Harvard U., Phys. Dept.). arXiv:1211.7038 [[inspire]](http://inspirehep.net/record/1204790)
+* [BDRS] **Jet substructure as a new Higgs search channel at the LHC**, Jonathan M. Butterworth, Adam R. Davison (University Coll. London), Mathieu Rubin, Gavin P. Salam (Paris, LPTHE).  arXiv:0802.2470. [[inspire]](http://inspirehep.net/record/779602)
+
 
 ### Jet Superstructure
 * **Seeing in Color: Jet Superstructure**, Jason Gallicchio, Matthew D. Schwartz (Harvard U.). Phys.Rev.Lett. 105 (2010) 022001. [[inspire]](http://inspirehep.net/record/844004)
@@ -93,8 +95,7 @@ James Barnard, Edmund Noel Dawe, Matthew J. Dolan, Nina Rajcic (ARC, CoEPP, Melb
 *  **Playing Tag with ANN: Boosted Top Identification with Pattern Recognition**, 
 Leandro G. Almeida (Ecole Normale Superieure, CNRS) , Mihailo Backović (Louvain U., CP3) , Mathieu Cliche (Cornell U., LEPP) , Seung J. Lee (KAIST, Taejon & Korea Inst. Advanced Study, Seoul) , Maxim Perelstein (Cornell U., LEPP) 
 [[inspire]](http://inspirehep.net/record/1341037)
-*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Jet-images — deep learning edition**,
-Luke de Oliveira (Stanford U., Math. Dept.) , Michael Kagan (SLAC) , Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman, Ariel Schwartzman (SLAC) 
+* **Jet-images — deep learning edition**, Luke de Oliveira (Stanford U., Math. Dept.) , Michael Kagan (SLAC) , Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman, Ariel Schwartzman (SLAC) 
 [[inspire]](http://inspirehep.net/record/1405106)
 * **Searching for Exotic Particles in High-Energy Physics with Deep Learning**, Pierre Baldi, Peter Sadowski (UC, Irvine), Daniel Whiteson (UC, Irvine & Pennsylvania U. & UC, Irvine). arXiv:1402.4735 [[inspire]](https://inspirehep.net/record/1281836) 
 *  **Jet-Images: Computer Vision Inspired Techniques for Jet Tagging**,
