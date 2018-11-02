@@ -29,14 +29,18 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 * **Deterministic annealing as a jet clustering algorithm in hadronic collisions**, L. Angelini, G. Nardulli (Bari U. & TIRES, Bari & INFN, Bari), L. Nitti (TIRES, Bari & INFN, Bari), M. Pellicoro (Bari U. & TIRES, Bari & INFN, Bari), D. Perrino (Bari U. & INFN, Bari), S. Stramaglia (Bari U. & TIRES, Bari & INFN, Bari). arXiv:hep-ph/0407214. [[inspire]](http://inspirehep.net/record/654777)
 * **FFTJet: A Package for Multiresolution Particle Jet Reconstruction in the Fourier Domain**, I. Volobouev. arXiv:0907.0270. [[inspire]](http://inspirehep.net/record/824726)
 
+## Jet Observables
+* **Energy flow polynomials: A complete linear basis for jet substructure**, Patrick T. Komiske, Eric M. Metodiev, Jesse Thaler (MIT, Cambridge, CTP). arXiv:1712.07124. [[inspire]](http://inspirehep.net/record/1644358)
+* **Generalized Fragmentation Functions for Fractal Jet Observables**, Benjamin T. Elder (MIT, Cambridge, CTP), Massimiliano Procura (CERN), Jesse Thaler (MIT, Cambridge, CTP), Wouter J. Waalewijn (Amsterdam U. & NIKHEF, Amsterdam), Kevin Zhou (MIT, Cambridge, CTP).  arXiv:1704.05456. [[inspire]](http://inspirehep.net/record/1592379)
+* **Jet shapes for boosted jet two-prong decays from first-principles**, Mrinal Dasgupta (Manchester U.), Lais Schunk (IPhT, Saclay), Gregory Soyez (IPhT, Saclay & Liege U.).  arXiv:1512.00516. [[inspire]](http://inspirehep.net/record/1407831)
+* **Jet Observables Without Jet Algorithms**, Daniele Bertolini, Tucker Chan, Jesse Thaler (MIT, Cambridge, CTP). arXiv:1310.7584. [[inspire]](http://inspirehep.net/record/1262516)
+
 
 ## Applications
 
 ### Jet Substructure
 
-* **Energy flow polynomials: A complete linear basis for jet substructure**, Patrick T. Komiske, Eric M. Metodiev, Jesse Thaler (MIT, Cambridge, CTP). arXiv:1712.07124. [[inspire]](http://inspirehep.net/record/1644358)
 * **Systematics of quark/gluon tagging**, Philippe Gras (IRFU, Saclay) , Stefan Hoeche (SLAC) , Deepak Kar (Witwatersrand U.) , Andrew Larkoski (Reed Coll.) , Leif Lönnblad (Lund U. & Lund U., Dept. Theor. Phys.) , Simon Plätzer (Durham U. & Durham U., IPPP & Manchester U.) , Andrzej Siódmok (CERN & Cracow, INP) , Peter Skands (Monash U.) , Gregory Soyez (IPhT, Saclay) , Jesse Thaler (MIT, Cambridge, CTP). arXiv:1704.03878. [[inspire]](http://inspirehep.net/record/1591528)
-* **Jet shapes for boosted jet two-prong decays from first-principles**, Mrinal Dasgupta (Manchester U.), Lais Schunk (IPhT, Saclay), Gregory Soyez (IPhT, Saclay & Liege U.).  arXiv:1512.00516. [[inspire]](http://inspirehep.net/record/1407831)
 * **Quark and Gluon Jet Substructure**,  Jason Gallicchio (UC, Davis) , Matthew D. Schwartz (Harvard U., Phys. Dept.). arXiv:1211.7038 [[inspire]](http://inspirehep.net/record/1204790)
 * [BDRS] **Jet substructure as a new Higgs search channel at the LHC**, Jonathan M. Butterworth, Adam R. Davison (University Coll. London), Mathieu Rubin, Gavin P. Salam (Paris, LPTHE).  arXiv:0802.2470. [[inspire]](http://inspirehep.net/record/779602)
 
