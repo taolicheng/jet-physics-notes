@@ -36,7 +36,7 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 * **Energy flow polynomials: A complete linear basis for jet substructure**, Patrick T. Komiske, Eric M. Metodiev, Jesse Thaler (MIT, Cambridge, CTP). arXiv:1712.07124. [[inspire]](http://inspirehep.net/record/1644358)
 * **Systematics of quark/gluon tagging**, Philippe Gras (IRFU, Saclay) , Stefan Hoeche (SLAC) , Deepak Kar (Witwatersrand U.) , Andrew Larkoski (Reed Coll.) , Leif Lönnblad (Lund U. & Lund U., Dept. Theor. Phys.) , Simon Plätzer (Durham U. & Durham U., IPPP & Manchester U.) , Andrzej Siódmok (CERN & Cracow, INP) , Peter Skands (Monash U.) , Gregory Soyez (IPhT, Saclay) , Jesse Thaler (MIT, Cambridge, CTP). arXiv:1704.03878. [[inspire]](http://inspirehep.net/record/1591528)
-
+* **Jet shapes for boosted jet two-prong decays from first-principles**, Mrinal Dasgupta (Manchester U.), Lais Schunk (IPhT, Saclay), Gregory Soyez (IPhT, Saclay & Liege U.).  arXiv:1512.00516. [[inspire]](http://inspirehep.net/record/1407831)
 * **Quark and Gluon Jet Substructure**,  Jason Gallicchio (UC, Davis) , Matthew D. Schwartz (Harvard U., Phys. Dept.). arXiv:1211.7038 [[inspire]](http://inspirehep.net/record/1204790)
 
 ### Jet Superstructure
