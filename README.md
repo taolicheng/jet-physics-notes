@@ -56,13 +56,11 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 
 ## Recent Progress
 
+* **Recursive Soft Drop**, Frédéric A. Dreyer (MIT, Cambridge, CTP), Lina Necib (Caltech), Gregory Soyez (IPhT, Saclay), Jesse Thaler (MIT, Cambridge, CTP). arXiv:1804.03657. [[inspire]](http://inspirehep.net/search?ln=en&ln=en&p=1804.03657&of=hb&action_search=Search&sf=earliestdate&so=d&rm=&rg=25&sc=0) 
 * **Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning**, Andrew J. Larkoski, Ian Moult, Benjamin Nachman. e-Print: arXiv:1709.04464. [[inspire]](http://inspirehep.net/record/1623553)
-
 * **Generalized Fragmentation Functions for Fractal Jet Observables**, Benjamin T. Elder (MIT, Cambridge, CTP) , Massimiliano Procura (CERN) , Jesse Thaler (MIT, Cambridge, CTP) , Wouter J. Waalewijn (Amsterdam U. & NIKHEF, Amsterdam) , Kevin Zhou (MIT, Cambridge, CTP), arXiv:1704.05456. [[inspire]](http://inspirehep.net/record/1592379)
-
 * **Fractal based observables to probe jet substructure of quarks and gluons**,
 Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[inspire]](http://inspirehep.net/record/1515999) 
-
 *  **Convolved Substructure: Analytically Decorrelating Jet Substructure Observables**,
 Ian Moult (LBNL, Berkeley & UC, Berkeley), Benjamin Nachman (LBL, Berkeley), Duff Neill (Los Alamos Natl. Lab., Theor. Div.). arXiv:1710.06859. [[inspire]](http://inspirehep.net/record/1631634)
 
