@@ -20,6 +20,7 @@ D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. B
 *  **Boosted objects and jet substructure at the LHC. Report of BOOST2012**, held at IFIC Valencia, 23rd-27th of July 2012
 A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne) , J. Backus Mayes (SLAC) , E. Bergeaas Kuutmann (DESY) , J. Berger (Cornell U., Phys. Dept.) , D. Bjergaard (Duke U.) , L. Bryngemark (Lund U.) , A. Buckley (Edinburgh U.) , J. Butterworth (University Coll. London) et al. arXiv:1311.2708. [[inspire]](http://inspirehep.net/record/1264118)
 * **Investigating the Quantum Properties of Jets and the Search for a Supersymmetric Top Quark Partner with the ATLAS Detector**, Benjamin Nachman (Stanford U., Phys. Dept.). CERN-THESIS-2016-083, arXiv:1609.03242. [[inspire]](http://inspirehep.net/record/1486232)
+* **Precision physics at the large hadron collider**, Frédéric A. Dreyer (Paris, LPTHE), [[pdf]](https://tel.archives-ouvertes.fr/tel-01407230/document) (more focused on precision calculation for jets)
 
 
 ## Jet Algorithms
