@@ -1,7 +1,7 @@
 # Jet Physics Notes
 > Knowledge base for Jet Physics at the LHC
 
-:star: Fresh New Results from BOOST2018: [here](boost2018.md)
+:star: upcoming: [BOOST2019](https://indico.cern.ch/event/753914/overview)
 
 * [Basics](#basics)
 * [Jet Algorithms](#jet-algorithms)
