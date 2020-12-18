@@ -16,9 +16,9 @@
 
 ### NLO Calculation + Resummation 
 
-![](http://latex.codecogs.com/gif.latex? \\sigma(v) = \\sigma_0 g(\\alpha_s) e^\\beta)
+![](http://latex.codecogs.com/gif.latex?\sigma(v)=\sigma_0~g(\alpha_s)e^\beta)
 
-![](http://latex.codecogs.com/gif.latex?\\beta = L g_1(\\alpha_s L) + g_2(\\alpha_s L) + \\alpha_s g_3(\\alpha_s L) + ..)
+![](http://latex.codecogs.com/gif.latex?\beta=L~g_1(\alpha_s~L)+g_2(\alpha_s~L)+\alpha_s~g_3(\alpha_s~L)+..)
 
 Jet substructure calculation at high precision, see [Larkoski's talk](https://indico.cern.ch/event/439039/contributions/2194580/attachments/1310623/1961016/BOOST_2016_Larkoski.pdf)
 
@@ -31,15 +31,15 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 * Sequential Algorithms
   * Jet Clustering 
 
-  ![](http://latex.codecogs.com/gif.latex?d_{ij} = min(p_{Ti}^{2\\alpha}, p_{Tj}^{2 \\alpha}) \\frac{\\Delta R_{ij}^2}{R^2})
+  ![](http://latex.codecogs.com/gif.latex?d_{ij}=min(p_{Ti}^{2\alpha},p_{Tj}^{2\alpha})\frac{\Delta~R_{ij}^2}{R^2})
   
-  ![](http://latex.codecogs.com/gif.latex?d_{iB} = p_{Ti}^2)
+  ![](http://latex.codecogs.com/gif.latex?d_{iB}=p_{Ti}^2)
 
   alpha=1 ->  kt; alpha=0 -> C/A; alpha=1 -> anti-kt
 
   * Qjets (non-deterministic jet clustering) 
 
-  ![](http://latex.codecogs.com/gif.latex?P_{ij} \\propto e^{- \\alpha (d_{ij} - d_{min}) / d_{min}} )
+  ![](http://latex.codecogs.com/gif.latex?P_{ij}\propto~e^{-\alpha(d_{ij}-d_{min})/d_{min}})
 
 * Minimization
   * k-means
