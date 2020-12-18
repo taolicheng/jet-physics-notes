@@ -1,15 +1,13 @@
 # Jet Physics Notes
 > Knowledge base for Jet Physics at the LHC
 
-:star: upcoming: [BOOST2019](https://indico.cern.ch/event/753914/overview)
-
 * [Basics](#basics)
 * [Jet Algorithms](#jet-algorithms)
 * [Applications](#applications)
 * [Recent Progress](#recent-progress)
 * [Tools](#tools)
 * [Conferences](#conferences)
-* [Brief Notes](./brief-notes.md)
+* :star: [Brief Notes](./brief-notes.md)
 
 ## Basics
 
@@ -143,6 +141,7 @@ Luke de Oliveira (LBNL, Berkeley) , Michela Paganini (LBNL, Berkeley & Yale U.) 
 
 ## Conferences
 
+* [BOOST2019](https://indico.cern.ch/event/753914/overview)
 * [Machine Learning for Jet Physics](https://indico.physics.lbl.gov/indico/event/546/overview)
 * [Deep Learning for Physical Sciences (NIPS2017)](https://dl4physicalsciences.github.io/)
 * [Boost 2018](https://indico.cern.ch/event/649482/overview)
