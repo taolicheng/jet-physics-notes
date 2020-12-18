@@ -101,7 +101,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 * color flow
 * jet charge
 
-![](http://latex.codecogs.com/gif.latex?Q_j=\frac{1}{p_{Tj}^\kappa}\sum_{i\in T}q_i\times(p_T^i)^\kappa)
+![](http://latex.codecogs.com/gif.latex?Q_j=\frac{1}{p_{Tj}^\kappa}\sum_{i\in~T}q_i\times(p_T^i)^\kappa)
 
 ## Applications (Subtopics)
 ### Quark-Gluon Discrimination
