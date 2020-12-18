@@ -105,6 +105,8 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 Q_j = \\frac{1}{p_{Tj}^\\kappa} \\sum_{i\\in T} q_i \\times (p_T^i)^\\kappa
 )
 
+https://latex.codecogs.com/svg.latex?\tau_N^\beta%20=%20\frac{1}{d_0}%20\sum_i%20p_{Ti}%20min(\Delta%20R_{1i}^\beta,%20...,%20\Delta%20R_{Ni}^\beta)
+
 ## Applications (Subtopics)
 ### Quark-Gluon Discrimination
 
