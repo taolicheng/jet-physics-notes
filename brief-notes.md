@@ -52,7 +52,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 ### Jet Grooming Algorithms
 * Pruning: re-cluster the constituents using C/A algo.. Discard soft branches if
   
-  ![](http://latex.codecogs.com/gif.latex?\frac{min(p_{Ti},~p_{Tj})}{p_{Tij}}<z_{cut}~\textrm{and}~\Delta R_{ij}>\frac{2m_j}{p_{Tj}}~R_{cut}) 
+  ![](http://latex.codecogs.com/gif.latex?\frac{min(p_{Ti},~p_{Tj})}{p_{Tij}}<z_{cut}~\textrm{and}~\Delta~R_{ij}>\frac{2m_j}{p_{Tj}}~R_{cut}) 
   
 * Trimming: re-cluster the constituents into subjets with kt algo.. Discard all subjets with
 
@@ -90,6 +90,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
   
 * color flow
 * jet charge
+
 ![](http://latex.codecogs.com/gif.latex?Q_j=\frac{1}{p_{Tj}^\kappa}\sum_{i\in~T}q_i\times(p_T^i)^\kappa)
 
 ## Applications (Subtopics)
