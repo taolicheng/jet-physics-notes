@@ -19,7 +19,9 @@ D. Adams (Brookhaven) , A. Arce (Duke U.) , L. Asquith (U. Sussex (main)) , M. B
 A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne) , J. Backus Mayes (SLAC) , E. Bergeaas Kuutmann (DESY) , J. Berger (Cornell U., Phys. Dept.) , D. Bjergaard (Duke U.) , L. Bryngemark (Lund U.) , A. Buckley (Edinburgh U.) , J. Butterworth (University Coll. London) et al. arXiv:1311.2708. [[inspire]](http://inspirehep.net/record/1264118)
 * **Investigating the Quantum Properties of Jets and the Search for a Supersymmetric Top Quark Partner with the ATLAS Detector**, Benjamin Nachman (Stanford U., Phys. Dept.). CERN-THESIS-2016-083, arXiv:1609.03242. [[inspire]](http://inspirehep.net/record/1486232)
 * **Precision physics at the large hadron collider**, Frédéric A. Dreyer (Paris, LPTHE), [[pdf]](https://tel.archives-ouvertes.fr/tel-01407230/document) (more focused on precision calculation for jets)
-
+* **Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning**, Andrew J. Larkoski, Ian Moult, Benjamin Nachman. e-Print: arXiv:1709.04464. [[inspire]](http://inspirehep.net/record/1623553)
+* **Jet Substructure at the Large Hadron Collider: Experimental Review**,
+Roman Kogler(Hamburg U.), Benjamin Nachman(LBNL, Berkeley), Alexander Schmidt(RWTH Aachen U.), Lily Asquith(U. Sussex (main)), Mario Campanelli(U. Coll. London) et al. (Mar 19, 2018). arXiv: 1803.06991. [[inspire]](https://inspirehep.net/literature/1663384)
 
 ## Jet Algorithms
 *  **Fuzzy Jets**, Lester Mackey (Stanford U., Statistics Dept.) , Benjamin Nachman (Stanford U., Phys. Dept. & SLAC) , Ariel Schwartzman (SLAC) , Conrad Stansbury (Stanford U., Phys. Dept.) arXiv:1509.02216 [[inspire]](https://inspirehep.net/record/1392463)
@@ -56,7 +58,6 @@ A. Altheimer (Nevis Labs, Columbia U.) , A. Arce (Duke U.) , L. Asquith (Argonne
 ## Recent Progress
 
 * **Recursive Soft Drop**, Frédéric A. Dreyer (MIT, Cambridge, CTP), Lina Necib (Caltech), Gregory Soyez (IPhT, Saclay), Jesse Thaler (MIT, Cambridge, CTP). arXiv:1804.03657. [[inspire]](http://inspirehep.net/search?ln=en&ln=en&p=1804.03657&of=hb&action_search=Search&sf=earliestdate&so=d&rm=&rg=25&sc=0) 
-* **Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning**, Andrew J. Larkoski, Ian Moult, Benjamin Nachman. e-Print: arXiv:1709.04464. [[inspire]](http://inspirehep.net/record/1623553)
 * **Generalized Fragmentation Functions for Fractal Jet Observables**, Benjamin T. Elder (MIT, Cambridge, CTP) , Massimiliano Procura (CERN) , Jesse Thaler (MIT, Cambridge, CTP) , Wouter J. Waalewijn (Amsterdam U. & NIKHEF, Amsterdam) , Kevin Zhou (MIT, Cambridge, CTP), arXiv:1704.05456. [[inspire]](http://inspirehep.net/record/1592379)
 * **Fractal based observables to probe jet substructure of quarks and gluons**,
 Joe Davighi (Cambridge U., DAMTP) , Philip Harris (CERN), arXiv:1703.00914.[[inspire]](http://inspirehep.net/record/1515999) 
