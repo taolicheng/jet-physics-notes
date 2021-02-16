@@ -69,7 +69,7 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 * jet mass: 
 * jet substructure observables
   * Angular Correlation Functions: 
-  * N-subjettiness:  ![](http://latex.codecogs.com/gif.latex?\tau_N^\beta) quantifies how well the radiation in the jet is aligned along N directions.
+  * [N-subjettiness](#references):  ![](http://latex.codecogs.com/gif.latex?\tau_N^\beta) quantifies how well the radiation in the jet is aligned along N directions.
    ![](http://latex.codecogs.com/gif.latex?\tau_N^\beta=\frac{1}{d_0}\sum_i~p_{Ti}~min(\Delta~R_{1i}^\beta,~...,~\Delta~R_{Ni}^\beta)~\textrm{with}~d_0=\sum_i~p_{Ti}~R^\beta)
 
   * ratio 
@@ -112,3 +112,12 @@ Jet substructure calculation at high precision, see [Larkoski's talk](https://in
 >Jet measurements at the LHC. More physics results see [LHC Results](./lhc-results.md)
 
 ## Open Questions / Unsolved Problems
+
+## References
+[1] Identifying Boosted Objects with N-subjettiness.
+   Jesse Thaler and Ken Van Tilburg.
+   JHEP 1103:015 (2011), arXiv:1011.2268.
+
+[2]  Maximizing Boosted Top Identification by Minimizing N-subjettiness. 
+   Jesse Thaler and Ken Van Tilburg. 
+   JHEP 1202:093 (2012), arXiv:1108.2701.
